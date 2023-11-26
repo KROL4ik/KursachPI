@@ -19,7 +19,11 @@ namespace Nogotochki
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //bimbimbambam
+            AccountService ak = new AccountService();
+
+            ak.start();
+
+           
         }
 
         private void label1_Click(object sender, EventArgs e)
