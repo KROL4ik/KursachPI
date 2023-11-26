@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace Nogotochki
 {
     public partial class RegistrationForm : Form
-    {
+    {  //dosomemagic
         public RegistrationForm()
         {
             InitializeComponent();
