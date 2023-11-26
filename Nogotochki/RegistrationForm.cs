@@ -19,6 +19,11 @@ namespace Nogotochki
         //Do some magic
         private void button1_Click(object sender, EventArgs e)
         {
+            
+
+
+
+
             //AccountService ak = new AccountService();
 
             //ak.start();
@@ -28,12 +33,17 @@ namespace Nogotochki
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+           
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+            string name  = textBox1.Text;
+            AccountService accountService = new AccountService();
+            accountService.CreateAccount();
 
+
+            //bam
         }
     }
 }
