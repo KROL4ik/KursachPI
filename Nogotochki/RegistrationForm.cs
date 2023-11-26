@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace Nogotochki
 {
     public partial class RegistrationForm : Form
-    {
+    {  //dosomemagic
         public RegistrationForm()
         {
             InitializeComponent();
@@ -19,7 +19,13 @@ namespace Nogotochki
         //Do some magic
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
+            //bimbimbabbam
+            RegistrationForm.ActiveForm.Hide();
+            MainForm frm = new MainForm();
+            frm.ShowDialog();
+            Close();
+
 
 
 
@@ -33,11 +39,14 @@ namespace Nogotochki
 
         private void label1_Click(object sender, EventArgs e)
         {
-           
+
+            //bimbam
+
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+
             string name  = textBox1.Text;
             AccountService accountService = new AccountService();
             accountService.CreateAccount();
@@ -47,6 +56,9 @@ namespace Nogotochki
             //bim
             //rfdsf
             //sdad
+
+            //bambim
+
         }
     }
 }
