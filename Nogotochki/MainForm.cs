@@ -12,7 +12,7 @@ namespace Nogotochki
 {
     public partial class MainForm : Form
     { 
-
+        //bimbim
         //do some magic
         public MainForm()
         {
