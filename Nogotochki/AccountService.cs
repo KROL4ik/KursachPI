@@ -8,5 +8,9 @@ namespace Nogotochki
 {
     internal class AccountService
     {
+        public void CreateAccount()
+        {
+
+        }
     }
 }
