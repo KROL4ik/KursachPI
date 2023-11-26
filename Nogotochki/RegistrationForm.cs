@@ -42,7 +42,7 @@ namespace Nogotochki
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            //bambim
         }
     }
 }
