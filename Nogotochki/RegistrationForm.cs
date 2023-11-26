@@ -19,6 +19,15 @@ namespace Nogotochki
         //Do some magic
         private void button1_Click(object sender, EventArgs e)
         {
+
+            RegistrationForm.ActiveForm.Hide();
+            MainForm frm = new MainForm();
+            frm.ShowDialog();
+            Close();
+
+
+
+
             //AccountService ak = new AccountService();
 
             //ak.start();
