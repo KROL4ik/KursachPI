@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\varva\\.nuget\\packages\\": {},
+    "C:\\Users\\vladb\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nogotochki\\KursachPI\\Nogotochki\\Nogotochki.csproj",
+      "projectUniqueName": "C:\\vladNogotochki\\KursachPI\\Nogotochki\\Nogotochki.csproj",
       "projectName": "Nogotochki",
-      "projectPath": "C:\\Nogotochki\\KursachPI\\Nogotochki\\Nogotochki.csproj",
-      "packagesPath": "C:\\Users\\varva\\.nuget\\packages\\",
-      "outputPath": "C:\\Nogotochki\\KursachPI\\Nogotochki\\obj\\",
+      "projectPath": "C:\\vladNogotochki\\KursachPI\\Nogotochki\\Nogotochki.csproj",
+      "packagesPath": "C:\\Users\\vladb\\.nuget\\packages\\",
+      "outputPath": "C:\\vladNogotochki\\KursachPI\\Nogotochki\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\varva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vladb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -19,9 +19,9 @@ namespace Nogotochki
         //Do some magic
         private void button1_Click(object sender, EventArgs e)
         {
-            AccountService ak = new AccountService();
+            //AccountService ak = new AccountService();
 
-            ak.start();
+            //ak.start();
 
            
         }
